@@ -8,5 +8,5 @@
 2) [zplug](https://github.com/zplug/zplug)
 `brew install zplug`
 
-3) Copy file .zshrc to home directory
-4) zsh .zshrc
+3) Copy file `.zshrc` to home directory
+4) `zsh .zshrc`
